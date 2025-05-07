@@ -2,9 +2,9 @@
   "date": "2025-05-07",
   "projects": {
     "cancelacionsegurosvida": {
-      "totalLinesAdded": 106,
+      "totalLinesAdded": 108,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 3,
       "files": {
         "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\inputMovidSeguro\\service.js": [
           {
@@ -35,6 +35,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-05-07T17:14:04.831Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\views\\solicitudes\\Acuse.vue",
+            "fileType": ".vue",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "vue"
           }
         ]
