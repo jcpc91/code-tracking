@@ -1,0 +1,47 @@
+{
+  "date": "2025-05-07",
+  "projects": {
+    "cancelacionsegurosvida": {
+      "totalLinesAdded": 11,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\inputMovidSeguro\\service.js": [
+          {
+            "timestamp": "2025-05-07T16:59:08.649Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\inputMovidSeguro\\service.js",
+            "fileType": ".js",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\inputMovidSeguro\\service.js"
+      ],
+      "averageChangeSize": 11
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
