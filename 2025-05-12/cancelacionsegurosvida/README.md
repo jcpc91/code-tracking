@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 293                                          |
+| **Lines Added** (➕)   | 324                                          |
 | **Lines Removed** (➖) | 38                                        |
-| **Net Change** (↕)    | 255                |
-| **Active Time** (⌚)   | 25 minutes |
+| **Net Change** (↕)    | 286                |
+| **Active Time** (⌚)   | 31 minutes |
 
 
 ## Modified Files
 - **UploadInputComponent.py** (+1, -0)
 - **UploadInputComponent.vue** (+23, -2)
 - **Acuse.vue** (+113, -0)
-- **Reportes.vue** (+156, -36)
+- **Reportes.vue** (+157, -36)
+- **index.js** (+30, -0)
 
 ## Visualizations
 
@@ -24,7 +25,8 @@
 pie showData
 title Lines changed by file type
 ".py" : 1
-".vue" : 330
+".vue" : 331
+".js" : 30
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ title Coding activity by hour (count of changes)
 "11h" : 7
 "15h" : 2
 "16h" : 5
-"17h" : 4
+"17h" : 7
 ```
 
 
-> **Last Updated:** 5/12/2025, 5:13:38 PM
+> **Last Updated:** 5/12/2025, 5:18:38 PM
