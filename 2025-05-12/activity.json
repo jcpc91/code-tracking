@@ -3,8 +3,8 @@
   "projects": {
     "cancelacionsegurosvida": {
       "totalLinesAdded": 134,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 10,
       "files": {
         "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\fileUploadInput\\UploadInputComponent.py": [
           {
@@ -49,6 +49,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-05-12T17:40:36.234Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\fileUploadInput\\UploadInputComponent.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "vue"
           }
         ],
