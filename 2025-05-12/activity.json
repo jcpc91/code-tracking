@@ -1,0 +1,66 @@
+{
+  "date": "2025-05-12",
+  "projects": {
+    "cancelacionsegurosvida": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\fileUploadInput\\UploadInputComponent.py": [
+          {
+            "timestamp": "2025-05-12T17:33:02.625Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\fileUploadInput\\UploadInputComponent.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\fileUploadInput\\UploadInputComponent.vue": [
+          {
+            "timestamp": "2025-05-12T17:33:10.198Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\fileUploadInput\\UploadInputComponent.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0,
+        "vue": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\fileUploadInput\\UploadInputComponent.py",
+        "c:\\git\\cancelacionsegurosvida\\src\\components\\forms\\fileUploadInput\\UploadInputComponent.vue"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "vue",
+    "py"
+  ]
+}
