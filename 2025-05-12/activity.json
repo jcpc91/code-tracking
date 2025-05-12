@@ -2,7 +2,7 @@
   "date": "2025-05-12",
   "projects": {
     "cancelacionsegurosvida": {
-      "totalLinesAdded": 134,
+      "totalLinesAdded": 137,
       "totalLinesRemoved": 2,
       "totalActiveTime": 10,
       "files": {
@@ -93,6 +93,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-05-12T17:53:29.563Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\views\\solicitudes\\Acuse.vue",
+            "fileType": ".vue",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "vue"
           }
         ]
