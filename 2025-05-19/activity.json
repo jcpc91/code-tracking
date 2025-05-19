@@ -2,9 +2,9 @@
   "date": "2025-05-19",
   "projects": {
     "cancelacionsegurosvida": {
-      "totalLinesAdded": 94,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 101,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 2,
       "files": {
         "c:\\git\\cancelacionsegurosvida\\src\\services\\configuracion.js": [
           {
@@ -48,6 +48,36 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-19T20:30:26.794Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\services\\configuracion.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\jcpena\\AppData\\Roaming\\VSCodium\\User\\settings.json": [
+          {
+            "timestamp": "2025-05-19T20:30:11.491Z",
+            "fileName": "c:\\Users\\jcpena\\AppData\\Roaming\\VSCodium\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
