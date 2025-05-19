@@ -2,9 +2,9 @@
   "date": "2025-05-19",
   "projects": {
     "cancelacionsegurosvida": {
-      "totalLinesAdded": 101,
+      "totalLinesAdded": 265,
       "totalLinesRemoved": 20,
-      "totalActiveTime": 2,
+      "totalActiveTime": 7,
       "files": {
         "c:\\git\\cancelacionsegurosvida\\src\\services\\configuracion.js": [
           {
@@ -78,6 +78,36 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\git\\cancelacionsegurosvida\\src\\views\\Configuracion.vue": [
+          {
+            "timestamp": "2025-05-19T20:33:31.167Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\views\\Configuracion.vue",
+            "fileType": ".vue",
+            "linesAdded": 162,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-05-19T20:33:34.623Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\views\\Configuracion.vue",
+            "fileType": ".vue",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
           }
         ]
       },
