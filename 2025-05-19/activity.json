@@ -3,7 +3,7 @@
   "projects": {
     "cancelacionsegurosvida": {
       "totalLinesAdded": 266,
-      "totalLinesRemoved": 20,
+      "totalLinesRemoved": 21,
       "totalActiveTime": 7,
       "files": {
         "c:\\git\\cancelacionsegurosvida\\src\\services\\configuracion.js": [
@@ -115,6 +115,20 @@
             "fileType": ".vue",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-05-19T20:46:10.658Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\views\\Configuracion.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cancelacionsegurosvida",
             "content": {
               "added": [],
