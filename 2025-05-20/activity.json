@@ -1,0 +1,142 @@
+{
+  "date": "2025-05-20",
+  "projects": {
+    "cancelacionsegurosvida": {
+      "totalLinesAdded": 443,
+      "totalLinesRemoved": 29,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\git\\cancelacionsegurosvida\\src\\views\\solicitudes\\Reportes.vue": [
+          {
+            "timestamp": "2025-05-20T15:59:09.854Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\views\\solicitudes\\Reportes.vue",
+            "fileType": ".vue",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-05-20T15:59:26.601Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\views\\solicitudes\\Reportes.vue",
+            "fileType": ".vue",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "c:\\git\\cancelacionsegurosvida\\src\\views\\Configuracion.vue": [
+          {
+            "timestamp": "2025-05-20T15:59:09.817Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\views\\Configuracion.vue",
+            "fileType": ".vue",
+            "linesAdded": 162,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-05-20T15:59:26.595Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\views\\Configuracion.vue",
+            "fileType": ".vue",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "c:\\git\\cancelacionsegurosvida\\src\\services\\configuracion.js": [
+          {
+            "timestamp": "2025-05-20T15:59:09.871Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\services\\configuracion.js",
+            "fileType": ".js",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-20T15:59:26.615Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\services\\configuracion.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\git\\cancelacionsegurosvida\\src\\router\\index.js": [
+          {
+            "timestamp": "2025-05-20T15:59:09.861Z",
+            "fileName": "c:\\git\\cancelacionsegurosvida\\src\\router\\index.js",
+            "fileType": ".js",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "cancelacionsegurosvida",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "vue": 2,
+        "js": 1
+      },
+      "changeFrequency": {
+        "9": 3
+      },
+      "topFiles": [
+        "c:\\git\\cancelacionsegurosvida\\src\\views\\solicitudes\\Reportes.vue",
+        "c:\\git\\cancelacionsegurosvida\\src\\views\\Configuracion.vue",
+        "c:\\git\\cancelacionsegurosvida\\src\\services\\configuracion.js",
+        "c:\\git\\cancelacionsegurosvida\\src\\router\\index.js"
+      ],
+      "averageChangeSize": 67.42857142857143
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "vue",
+    "js"
+  ]
+}
