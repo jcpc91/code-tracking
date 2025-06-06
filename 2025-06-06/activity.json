@@ -1,0 +1,47 @@
+{
+  "date": "2025-06-06",
+  "projects": {
+    "MaviSAP": {
+      "totalLinesAdded": 1,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\git\\MaviSAP\\StoreProcedure\\SpProcesosCuentasBancarias.sql": [
+          {
+            "timestamp": "2025-06-06T16:38:28.371Z",
+            "fileName": "c:\\git\\MaviSAP\\StoreProcedure\\SpProcesosCuentasBancarias.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MaviSAP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\git\\MaviSAP\\StoreProcedure\\SpProcesosCuentasBancarias.sql"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "sql"
+  ]
+}
